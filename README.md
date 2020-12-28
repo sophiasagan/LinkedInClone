@@ -68,3 +68,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+margin: 0;
+padding: 0;
+border: 0;
+font-style: inherit;
+vertical-align: baseline;
+font-size: 13px;
+font-family: "Proxima Nova", Arial, sans-serif;
+color: #777777;
+font-weight: normal;
+line-height: 18px;
+width: 100%;
+overflow-x: hidden;
+margin-top: 0;
+background: url("https://www.toptal.com/designers/subtlepatterns/patterns/greyfloral.png");
