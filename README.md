@@ -83,4 +83,4 @@ line-height: 18px;
 width: 100%;
 overflow-x: hidden;
 margin-top: 0;
-background: url("https://www.toptal.com/designers/subtlepatterns/patterns/greyfloral.png");
+background: url("https://www.toptal.com/designers/subtlepatterns/patterns/greyfloral.png");# LinkedInClone
